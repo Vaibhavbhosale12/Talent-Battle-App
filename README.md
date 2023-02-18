@@ -1,4 +1,4 @@
- * NOTE: Add "node_modules" folder with the above files from your local system (install node and find that folder in /usr/local/bin/node) before running the application.
+ * NOTE: Add "node_modules" folder with the above files from your local system (install node and find that folder in /usr/local/lib/node) before running the application.
 
 # Talent-Battle-App
 
